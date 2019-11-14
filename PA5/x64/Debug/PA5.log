@@ -1,0 +1,3 @@
+﻿  JobScheduler.cpp
+c:\users\dorse\source\repos\pa5\pa5\jobscheduler.cpp(37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PA5.vcxproj -> C:\Users\dorse\source\repos\PA5\x64\Debug\PA5.exe
